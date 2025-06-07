@@ -12,5 +12,4 @@ For more infor about the EvilCups:
 - Demonstrating the New Linux Exploit (9.9 CVSS) - MalwareCube: https://www.youtube.com/watch?v=cixyRITXaOw&t=424s
 - HackTheBox - EvilCUPS: https://www.youtube.com/watch?v=7oMSQPST7H8&t=737s
 
-Note:
-This project is for study purposes. I am not responsible for any consequences resulting from the use of this project for illegal purposes.
+Note: This project is for study purposes. I am not responsible for any consequences resulting from the use of this project for illegal purposes.
