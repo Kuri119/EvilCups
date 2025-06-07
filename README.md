@@ -1,6 +1,6 @@
 This is a pentest project using EvilCups (CVE-2024-47176, CVE-2024-47076, CVE-2024-47175, CVE-2024-47177).
 
-To hightly understand the project don't hesitate to view the pptx file or read the docx/pdf file.
+To hightly understand the project don't hesitate to view the pptx file or read the pdf file.
 
 All code is contained in the folder: evil-cups-code.
 
