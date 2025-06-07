@@ -6,6 +6,7 @@ All code is contained in the folder: evil-cups-code.
 
 Link POC:
 - Nhóm 1 - EvilCups: https://www.youtube.com/watch?v=qVDA-t7K0fY
+
 For more infor about the EvilCups:
 - Attacking UNIX Systems via CUPS, Part I: https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/
 - Demonstrating the New Linux Exploit (9.9 CVSS) - MalwareCube: https://www.youtube.com/watch?v=cixyRITXaOw&t=424s
