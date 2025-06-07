@@ -2,7 +2,7 @@ This is a pentest project using EvilCups (CVE-2024-47176, CVE-2024-47076, CVE-20
 
 To hightly understand the project don't hesitate to view the pptx file or read the docx/pdf file.
 
-The code using in the folder: evil-cups-code.
+All code is contained in the folder: evil-cups-code.
 
 Link POC:
 - Nhóm 1 - EvilCups: https://www.youtube.com/watch?v=qVDA-t7K0fY
